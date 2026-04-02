@@ -1,0 +1,43 @@
+<svg width="680" height="820" viewBox="0 0 680 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="820" rx="44" fill="url(#bg)"/>
+  <circle cx="491" cy="151" r="96" fill="url(#glow)" fill-opacity="0.58"/>
+  <circle cx="349" cy="272" r="130" fill="#1A1A1A"/>
+  <path d="M202 647C202 531.609 295.609 438 411 438H418C533.391 438 627 531.609 627 647V820H202V647Z" fill="url(#coat)"/>
+  <path d="M322 404C322 381.909 339.909 364 362 364H410C432.091 364 450 381.909 450 404V451H322V404Z" fill="#0E0E0E"/>
+  <path d="M246 279C246 192.327 316.327 122 403 122C489.673 122 560 192.327 560 279V307C560 393.673 489.673 464 403 464C316.327 464 246 393.673 246 307V279Z" fill="url(#skin)"/>
+  <path d="M281 233C281 145.186 352.186 74 440 74H454C514.751 74 564 123.249 564 184V277H281V233Z" fill="#111111"/>
+  <path d="M279 276H564V322C564 407.052 495.052 476 410 476H402C333.516 476 278 420.484 278 352V277C278 276.448 278.448 276 279 276Z" fill="url(#skin)"/>
+  <path d="M311 320C311 339.33 326.67 355 346 355C365.33 355 381 339.33 381 320V312H311V320Z" fill="#D6A27D"/>
+  <rect x="305" y="285" width="40" height="12" rx="6" fill="#111111"/>
+  <rect x="422" y="285" width="40" height="12" rx="6" fill="#111111"/>
+  <path d="M371 385C388.836 399.171 419.164 399.171 437 385" stroke="#9B5F47" stroke-width="8" stroke-linecap="round"/>
+  <path d="M255 610C291.96 538.188 365.975 492 448.92 492H458.08C540.999 492 615.006 538.215 651.954 610H255Z" fill="url(#shirt)"/>
+  <rect x="159" y="102" width="52" height="596" rx="26" fill="url(#edge)" fill-opacity="0.35"/>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="34" x2="623" y2="781" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#121212"/>
+      <stop offset="0.48" stop-color="#0A0A0A"/>
+      <stop offset="1" stop-color="#1A1A1A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(491 151) rotate(90) scale(96)">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="coat" x1="414.5" y1="438" x2="414.5" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#181818"/>
+      <stop offset="1" stop-color="#060606"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="453.5" y1="492" x2="453.5" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A2A2A"/>
+      <stop offset="1" stop-color="#111111"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="419" y1="122" x2="419" y2="476" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1C7A7"/>
+      <stop offset="1" stop-color="#D8A17B"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="185" y1="102" x2="185" y2="698" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
